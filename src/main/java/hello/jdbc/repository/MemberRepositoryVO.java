@@ -32,7 +32,7 @@ public class MemberRepositoryVO {
             close(con, pstmt, null);
         }
 
-    }
+    } 
 
     private void close(Connection con, Statement stmt, ResultSet rs){
 

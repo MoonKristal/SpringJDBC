@@ -57,7 +57,6 @@ public class MemberServiceV1Test {
 
         assertThat(findMemberA.getMoney()).isEqualTo(8000);
         assertThat(findMemberB.getMoney()).isEqualTo(12000);
-
     }
 
     @Test
@@ -79,6 +78,5 @@ public class MemberServiceV1Test {
 
         assertThat(findMemberA.getMoney()).isEqualTo(8000);
         assertThat(findMemberB.getMoney()).isEqualTo(10000);
-
     }
 }

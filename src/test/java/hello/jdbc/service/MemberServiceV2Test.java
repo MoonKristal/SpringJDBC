@@ -85,4 +85,5 @@ public class MemberServiceV2Test {
         assertThat(findMemberA.getMoney()).isEqualTo(10000);
         assertThat(findMemberB.getMoney()).isEqualTo(10000);
     }
+    
 }

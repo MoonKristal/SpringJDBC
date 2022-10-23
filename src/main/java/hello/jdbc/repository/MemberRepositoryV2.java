@@ -164,7 +164,6 @@ public class MemberRepositoryV2 {
 
     }
 
-
     private void close(Connection con, Statement stmt, ResultSet rs){
 
         JdbcUtils.closeResultSet(rs);

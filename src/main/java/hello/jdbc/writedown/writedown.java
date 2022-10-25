@@ -34,4 +34,8 @@ public class writedown {
      * DB 락 - 조회
      * */
 
+    /**
+     * 문제점들
+     * */
+
 }

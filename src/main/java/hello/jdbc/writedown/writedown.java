@@ -38,4 +38,7 @@ public class writedown {
      * 문제점들
      * */
 
+    /**
+     * 트랜잭션 추상화
+     * */
 }

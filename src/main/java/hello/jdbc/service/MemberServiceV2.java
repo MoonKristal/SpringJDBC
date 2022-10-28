@@ -23,6 +23,7 @@ public class MemberServiceV2 {
         Connection con = dataSource.getConnection();
         try {
             con.setAutoCommit(false); // 트랜잭션 시작
+            // 비즈니스 로직
             bizLogic(con, fromId, toId, money);
             con.commit(); // 성공시 커밋
         }catch (Exception e){

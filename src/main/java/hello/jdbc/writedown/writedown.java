@@ -83,4 +83,8 @@ public class writedown {
     /**
      * 예외 계층
      * */
+
+    /**
+     * 예외 기본 규칙
+     * */
 }

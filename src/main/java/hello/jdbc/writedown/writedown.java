@@ -132,4 +132,8 @@ public class writedown {
      * 스프링 예외 추상화 적용
      * */
 
+    /**
+     * JDBC 반복 문제 해결 - JdbcTemplate
+     * */
+
 }

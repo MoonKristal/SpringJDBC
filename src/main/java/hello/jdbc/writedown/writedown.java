@@ -136,4 +136,8 @@ public class writedown {
      * JDBC 반복 문제 해결 - JdbcTemplate
      * */
 
+    /**
+     * 정리
+     * */
+
 }

@@ -9,4 +9,8 @@ public class writedown2 {
     /**
      * 프로젝트 설정과 메모리 저장소
      * */
+
+    /**
+     * JDBC Template 적용1 - 기본
+     * */
 }

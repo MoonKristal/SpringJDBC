@@ -13,4 +13,9 @@ public class writedown2 {
     /**
      * JDBC Template 적용1 - 기본
      * */
+
+    /**
+     * JDBC Template 적용2 - 설정
+     * */
+
 }

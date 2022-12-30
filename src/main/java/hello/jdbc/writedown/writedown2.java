@@ -15,7 +15,7 @@ public class writedown2 {
      * */
 
     /**
-     * JDBC Template 적용2 - 설정
+     * JDBC Template 적용2 - 동적 쿼리 문제
      * */
 
 }
